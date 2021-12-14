@@ -100,3 +100,4 @@ widgetsnbextension==3.5.2
 wincertstore==0.2
 yarl==1.7.2
 yaspin==2.1.0
+fbprophet
